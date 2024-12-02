@@ -6,7 +6,7 @@ This is a learning opportunity not competitiv code ^^'
 
 
 
-# day 1
+### day 1
 I learned about:
 - the optional type to be able to return the equivalent of an error without a 
 throw

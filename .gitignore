@@ -1,0 +1,40 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Dependencies
+lib/
+vendor/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Temporary files
+*.log
+*.tmp
